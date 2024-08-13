@@ -1,2 +1,37 @@
-# Automated_Trading_Strategy_Platform
-This project aims to develop an automated trading platform that leverages machine learning and financial analytics to optimize trading strategies and increase profitability. The platform integrates real-time data feeds and uses historical market data to develop and backtest algorithmic trading models.
+# Automated Trading Strategy Platform
+
+## Project Overview
+The Automated Trading Strategy Platform is designed to revolutionize the field of algorithmic trading by utilizing advanced machine learning techniques and real-time financial analytics. Our platform aims to optimize trading strategies, enhance profitability, and reduce risk by analyzing historical and real-time market data.
+
+## Features
+- **Real-Time Data Integration**: Incorporates live data feeds to ensure that trading strategies are based on the most current market conditions.
+- **Historical Data Analysis**: Uses extensive historical market data to backtest and refine trading algorithms.
+- **Machine Learning Models**: Employs machine learning algorithms to predict market trends and automate trading decisions.
+- **Performance Analysis**: Features comprehensive tools for analyzing the performance of trading strategies, including risk assessment and profitability metrics.
+
+## Getting Started
+### Prerequisites
+- Python 3.8+
+- pip
+- Virtual environment (recommended)
+
+### Installation
+Clone the repository and set up a virtual environment:
+```bash
+git clone https://github.com/ishanBanerjee2003/Automated_Trading_Strategy_Platform.git
+cd Automated_Trading_Strategy_Platform
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+###Repository Structure
+
+data/: Contains the datasets used for analysis and testing.
+notebooks/: Jupyter notebooks for exploratory data analysis and initial testing.
+scripts/: Python scripts for executing trading strategies and performance analysis.
+requirements.txt: List of packages required to run the platform.
+Contributing
+
+We welcome contributions from the community. If you wish to contribute to the project, please fork the repository and submit a pull request.
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
