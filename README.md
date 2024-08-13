@@ -24,4 +24,3 @@ python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
 
-This Markdown-ready text is formatted to be directly used in your GitHub README file, offering a comprehensive and engaging overview of your Automated Trading Strategy Platform project.
