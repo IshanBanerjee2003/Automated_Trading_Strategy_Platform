@@ -23,15 +23,5 @@ cd Automated_Trading_Strategy_Platform
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
-###Repository Structure
 
-data/: Contains the datasets used for analysis and testing.
-notebooks/: Jupyter notebooks for exploratory data analysis and initial testing.
-scripts/: Python scripts for executing trading strategies and performance analysis.
-requirements.txt: List of packages required to run the platform.
-Contributing
-
-We welcome contributions from the community. If you wish to contribute to the project, please fork the repository and submit a pull request.
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+This Markdown-ready text is formatted to be directly used in your GitHub README file, offering a comprehensive and engaging overview of your Automated Trading Strategy Platform project.
